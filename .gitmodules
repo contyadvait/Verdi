@@ -1,0 +1,6 @@
+[submodule "VerdiBackend"]
+	path = VerdiBackend
+	url = https://github.com/contyadvait/LeafLogicBackend.git
+[submodule "Verdi"]
+	path = Verdi
+	url = https://github.com/contyadvait/environment-app.git
