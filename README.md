@@ -1,7 +1,7 @@
 # Verdi
 Introducing Verdi! Have you ever wanted to take care of the environment but kept losing montivation? Well, introducing Verdi, your eco-friendly companion!
 
-![High Seas Banner](Screenshots/HighSeasBanner.png)
+![Screenshots/HighSeasBanner.png](https://cloud-4h6iq693w-hack-club-bot.vercel.app/0highseasbanner.png)
 
 For the original repositories:
 
